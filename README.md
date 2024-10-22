@@ -1,5 +1,7 @@
 # ESPboy - Doc FR (EN After)
-Ce programme utilise une carte ESP 32 pour gérer un jeu qui affiche des pixels sur un écran OLED, détecte les appuis de boutons pour interagir avec le jeu, et joue de la musique via un haut-parleur. Il comporte des fonctionnalités pour le mouvement du joueur, la gestion d'un combat, et la lecture de musique.
+Ce programme utilise une carte ESP 32 pour gérer un jeu qui affiche des pixels sur un écran OLED, détecte les appuis de boutons pour interagir avec le jeu, et joue de la musique via un haut-parleur. Il comporte des fonctionnalités pour le mouvement du joueur, la gestion d'un combat, et la lecture de musique.  
+
+Vidéo : https://github.com/Techartdr/game-espboy/blob/main/res/Demo.mp4
 
 ## 1. Bibliothèques Utilisées
 
@@ -134,7 +136,9 @@ Ce code implémente un petit jeu sur Arduino qui :
 
 # ESPboy - Doc EN
 
-This program uses an Arduino board to manage a small game that displays graphics on an OLED screen, detects button presses to interact with the game, and plays music through a speaker. It includes features for player movement, combat management, and music playback.
+This program uses an Arduino board to manage a small game that displays graphics on an OLED screen, detects button presses to interact with the game, and plays music through a speaker. It includes features for player movement, combat management, and music playback.  
+
+Video : https://github.com/Techartdr/game-espboy/blob/main/res/Demo.mp4
 
 ## 1. Libraries Used
 
